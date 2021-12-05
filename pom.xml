@@ -101,7 +101,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	 <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>java-web-app-docker-release</name>
@@ -112,7 +112,7 @@
 	      <name>java-web-app-docker-snapshot</name>
 	      <url>http://13.233.40.8:9980/jagannexus/repository/java-web-app-docker-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<plugins>
